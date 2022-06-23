@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.trantor_si.linkedin_apache_kafka.tutorial1"}];updateSearchResults();

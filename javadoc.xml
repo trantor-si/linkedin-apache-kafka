@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="target/test-classes;C:\Users\luccostajr\.m2\repository\com\github\luben\zstd-jni\1.5.2-1\zstd-jni-1.5.2-1.jar;C:\Users\luccostajr\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\luccostajr\.m2\repository\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;C:\Users\luccostajr\.m2\repository\org\slf4j\slf4j-simple\1.7.36\slf4j-simple-1.7.36.jar;C:\Users\luccostajr\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\luccostajr\.m2\repository\org\xerial\snappy\snappy-java\1.1.8.4\snappy-java-1.1.8.4.jar;C:\Users\luccostajr\.m2\repository\org\apache\kafka\kafka-clients\3.2.0\kafka-clients-3.2.0.jar" destdir="doc" doctitle="linkedin_apache_kaffka" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="18" sourcefiles="src/main/java/com/github/trantor_si/linkedin_apache_kafka/tutorial1/ProducerDemoKeys.java" sourcepath="src/main/java;src/test/java" splitindex="true" use="true" version="true">
+            <link href="https://docs.oracle.com/en/java/javase/18/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
